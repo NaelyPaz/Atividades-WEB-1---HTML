@@ -4,7 +4,7 @@ Repositórios das atividades de html da disciplina de web 1
 ## Heading 2
 ### Hesading 3
 Lista de Atividades:
-- [Atividade 1](tividade1)
+- [Atividade 1](atividade1.html)
 - 
 - Atividade 2
 - Atividade 3
